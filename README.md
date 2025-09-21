@@ -6,19 +6,15 @@
 
 I’ve been building my skills step by step — from mastering the basics of Python and SQL, to exploring visualization tools and diving into the foundations of Machine Learning & Deep Learning. I enjoy working on projects that combine technical skills with creativity, whether it’s analyzing real-world datasets, creating dashboards, or experimenting with predictive models.
 -->
-## 🔧 Tech Stack & Skills**
+### 🔧 Tech Stack & Skills
 
-🐍 Python for Data Science
-Proficient in using Pandas & NumPy for data manipulation, Matplotlib & Seaborn for visualization, and exploring ML with Scikit-learn.
-📂 SQL (MySQL)
-Writing queries to extract, filter, and analyze data efficiently.
-📊 Data Visualization
-Skilled at building dashboards and reports using Power BI, and creating compelling data visuals in Python.
-🤖 Machine Learning & Deep Learning
-Currently learning the fundamentals of supervised & unsupervised learning, and experimenting with deep learning frameworks like TensorFlow.
+- 🐍 Python for Data Science : Proficient in using Pandas & NumPy for data manipulation, Matplotlib & Seaborn for visualization, and exploring ML with Scikit-learn.
+- 📂 SQL (MySQL) : Writing queries to extract, filter, and analyze data efficiently.
+- 📊 Data Visualization : Skilled at building dashboards and reports using Power BI, and creating compelling data visuals in Python.
+- 🤖 Machine Learning & Deep Learning : Currently learning the fundamentals of supervised & unsupervised learning, and experimenting with deep learning frameworks like TensorFlow.
 
 
-## 🚀 What I’m Currently Learning
+### 🚀 What I’m Currently Learning
 
 - Advanced SQL queries for analytics
 - Building interactive dashboards & reports
