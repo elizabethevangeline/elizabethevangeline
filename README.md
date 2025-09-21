@@ -1,6 +1,5 @@
-## Hi there 👋 I'm Elii
+### Hi there 👋 I'm Elii
 
-<!--
 🎓 I'm currently a 3rd semester student at BINUS University with a strong interest in the world of data.
 💻 My main focus is on Data Science and Data Analysis, where I love exploring datasets, cleaning messy data, and transforming them into meaningful insights.
 📊 I believe that every dataset has a story, and my passion lies in uncovering those stories through analysis, visualization, and models.
