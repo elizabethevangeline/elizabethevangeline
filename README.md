@@ -10,7 +10,8 @@ I’ve been building my skills step by step — from mastering the basics of Pyt
 
 - 🐍 Python for Data Science : Proficient in using Pandas & NumPy for data manipulation, Matplotlib & Seaborn for visualization, and exploring ML with Scikit-learn.
 - 📂 SQL (MySQL) : Writing queries to extract, filter, and analyze data efficiently.
-- 📊 Data Visualization : Skilled at building dashboards and reports using Power BI, and creating compelling data visuals in Python.
+- 📈 R Programming : Using dplyr & tidyr for data wrangling, ggplot2 for advanced data visualization, and practicing statistical analysis.  
+- 📊 Data Visualization : Creating compelling data visuals in Python and R.
 - 🤖 Machine Learning & Deep Learning : Currently learning the fundamentals of supervised & unsupervised learning, and experimenting with deep learning frameworks like TensorFlow.
 
 
