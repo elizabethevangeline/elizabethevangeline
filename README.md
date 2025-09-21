@@ -16,7 +16,7 @@ Writing queries to extract, filter, and analyze data efficiently.
 Skilled at building dashboards and reports using Power BI, and creating compelling data visuals in Python.
 **🤖 Machine Learning & Deep Learning**
 Currently learning the fundamentals of supervised & unsupervised learning, and experimenting with deep learning frameworks like TensorFlow.
--->
+
 
 ## 🚀 What I’m Currently Learning
 
